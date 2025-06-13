@@ -33,7 +33,7 @@ import (
     "log"
     "time"
 
-    "github.com/ixugo/amap_go"
+    "github.com/ixugo/amap"
 )
 
 func main() {
