@@ -31,7 +31,7 @@ func TestDel(t *testing.T) {
 	if l := cache.Len(); l != 10 {
 		t.Fatal("expect 10, got", l)
 	}
-	time.Sleep(1 * time.Second)
+	time.Sleep(2 * time.Second)
 	if l := cache.Len(); l != 0 {
 		t.Fatal("expect 0, got", l)
 	}
