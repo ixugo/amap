@@ -2,6 +2,8 @@
 
 高德地图 Web 服务 API 的 Go 语言 SDK，提供地理编码、逆地理编码和 IP 定位等功能。
 
+**免费 API 推荐使用 [github.com/ixugo/netpulse](https://github.com/ixugo/netpulse)**
+
 ## 功能特性
 
 - ✅ **地理编码**: 将结构化地址转换为经纬度坐标
